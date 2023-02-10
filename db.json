@@ -1,0 +1,62 @@
+{
+  "farmacia": [
+    {
+      "id": 1,
+      "Gerente": 1,
+      "java": 3763,
+      "Localização": "botânico"
+    },
+    {
+      "id": 2,
+      "Gerente": 2,
+      "java": 3183,
+      "Localização": "portugal"
+    },
+    {
+      "id": 3,
+      "Gerente": 3,
+      "java": 1438,
+      "Localização": "chile"
+    }
+  ],
+  "remedios": [
+    {
+      "id": 1,
+      "categoria": "genérico",
+      "nome": "dipirona",
+      "grupo": "anti-térmico"
+    },
+    {
+      "id": 2,
+      "categoria": "referencia",
+      "nome": "frontal",
+      "grupo": "ansiolítico/benzodiazepínicos"
+    },
+    {
+      "id": 3,
+      "categoria": "similar",
+      "nome": "Bupium",
+      "grupo": "Antitabagismos/Inibidores de dopamina"
+    }
+  ],
+  "funcionarios": [
+    {
+      "id": 1,
+      "nome": "Thiago",
+      "cargo": "Desenvolvedor",
+      "horario": "manha"
+    },
+    {
+      "id": 2,
+      "nome": "Gabriel",
+      "cargo": "Atendente 2",
+      "horario": "tarde"
+    },
+    {
+      "id": 3,
+      "nome": "Adriele",
+      "cargo": "Dermoconsultora",
+      "horario": "noite"
+    }
+  ]
+}
