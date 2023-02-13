@@ -1,10 +1,10 @@
 {
   "farmacia": [
     {
-      "id": 1,
-      "Gerente": 1,
+      "Gerente": 8,
       "java": 3763,
-      "Localização": "botânico"
+      "Localização": "Caramuru",
+      "id": 1
     },
     {
       "id": 2,
@@ -21,12 +21,6 @@
   ],
   "remedios": [
     {
-      "id": 1,
-      "categoria": "genérico",
-      "nome": "dipirona",
-      "grupo": "anti-térmico"
-    },
-    {
       "id": 2,
       "categoria": "referencia",
       "nome": "frontal",
@@ -37,17 +31,17 @@
       "categoria": "similar",
       "nome": "Bupium",
       "grupo": "Antitabagismos/Inibidores de dopamina"
+    },
+    {
+      "id": 4
+    },
+    {
+      "id": 5
     }
   ],
   "funcionarios": [
     {
       "id": 1,
-      "nome": "Thiago",
-      "cargo": "Desenvolvedor",
-      "horario": "manha"
-    },
-    {
-      "id": 2,
       "nome": "Gabriel",
       "cargo": "Atendente 2",
       "horario": "tarde"
@@ -57,6 +51,9 @@
       "nome": "Adriele",
       "cargo": "Dermoconsultora",
       "horario": "noite"
+    },
+    {
+      "id": 4
     }
   ]
 }

@@ -1,0 +1,17 @@
+{
+    "/farmacia/list": "/farmacia/",
+    "/farmacia/create": "/farmacia/",
+    "/farmacia/update/:id": "/farmacia/:id",
+    "/farmacia/delete/:id": "/farmacia/:id",
+
+    "/remedios/list": "/remedios/",
+    "/remedios/create": "/remedios/",
+    "/remedios/update/:id": "/remedios/:id",
+    "/remedios/delete/:id": "/remedios/:id",
+
+
+    "/funcionarios/list": "/funcionarios/",
+    "/funcionarios/create": "/funcionarios/",
+    "/funcionarios/update/:id": "/funcionarios/:id",
+    "/funcionarios/delete/:id": "/funcionarios/:id"
+}
